@@ -1,0 +1,127 @@
+.contenedorPadre{
+    border: black solid 2px;
+    width: 1300;
+    height: 630px;
+}
+
+.parrafo{
+    font-weight:  bold;
+}
+
+.caja1{
+    height: 68px;
+    width: 68px;
+    background-color: #ACECD5;
+    display: inline-block;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+}
+.caja2{
+    height: 68px;
+    width: 68px;
+    background-color: #FFF9AA;
+    display: inline-block;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+    left: 0px
+}
+.caja3{
+    height: 68px;
+    width: 68px;
+    background-color: #FFD5B8;
+    display: inline-block;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+    left: 0px
+}
+.caja4{
+    height: 138px;
+    width: 645px;
+    background-color: #FFB9B3;
+    display: inline-block;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+}
+.caja5{
+    height: 138px;
+    width: 670px;
+    background-color: #9A91AC;
+    display: inline-block;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+    left: 0px;
+}
+
+.caja6{
+    height: 138px;
+    width: 500px;
+    background-color: #FFB9B3;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+    left: 144px;
+    display: inline-block;  
+}
+.caja7{
+    height: 138px;
+    width: 500px;
+    background-color: #9A91AC;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+    left: 144px;
+    display: inline-block;  
+}
+.caja8{
+    height: 68px;
+    width: 68px;
+    background-color: #7799CC;
+    display: block;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+    bottom: 72px;
+    left: 144px;
+}
+.caja9{
+    height: 68px;
+    width: 68px;
+    background-color: #7799CC;
+    display: inline-block;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+    bottom: 141px;
+    left: 1080px;
+}
+.caja10{
+    height: 138px;
+    width: 1300px;
+    position: relative;
+    display: inline-block;
+    bottom: 140px;
+
+}
+.caja11{
+    height: 138px;
+    width: 670px;
+    background-color: #9A91AC;
+    display: inline-block;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    position: relative;
+    left: 650px;
+    bottom: 140px;
+}
+.caja12{
+    height: 138px;
+    width: 1300px;
+    position: relative;
+    display: inline-block;
+    bottom: 280px;
+}
